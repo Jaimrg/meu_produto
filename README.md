@@ -2,7 +2,6 @@
 
 #Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/Jaimrg/meu_produto/blob/feat_organization/screenshots/Screenshot_20221217-111726.jpg">
 
 
